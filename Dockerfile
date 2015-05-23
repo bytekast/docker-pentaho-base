@@ -1,5 +1,7 @@
 FROM tutum/ubuntu:trusty
 
+MAINTAINER Rowell Belen developer@bytekast.com
+
 # Add a repo where Oracle JDK7 can be found.
 RUN apt-get update
 RUN apt-get install -y software-properties-common
