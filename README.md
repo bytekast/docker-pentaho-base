@@ -24,7 +24,7 @@ You are now able to ssh directly into the container with your ssh keys (Replace 
 ssh -p 2222 root@DOCKER_HOST
 ```
 
-Or run in the docker host:
+To view the logs, run:
 ```
 docker logs $CONTAINER_ID
 ```
