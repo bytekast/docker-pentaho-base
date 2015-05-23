@@ -3,7 +3,7 @@ docker-pentaho-base
 
 [![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
 
-## Base image for running Pentaho BISERVER CE software within a Docker Container
+## Base image for running Pentaho software within a Docker Container
 
 ### Building
 ```
